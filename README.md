@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#.NET, ASP.NET, Web development (FrontEnd, BackEnd), and so many others
 - 💞️ I’m looking to integrate a company that can give me the chance to exercise my passion and gain experience as a C#.Net developer
 - 📫 How to reach me : zaddemnizar@gmail.com
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 - 👋 Bonjour, je m'appelle Nizar @zaddemnizar
 - 👀 Je suis intéressé de deveneir un développeur C#.NET
 - 🌱 Actuellement, je suis en train d'apprendre C#.NET, ASP.NET, Web development (FrontEnd, BackEnd), et plusieurs autres domaines
