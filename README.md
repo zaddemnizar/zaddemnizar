@@ -6,7 +6,7 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 - 👋 Bonjour, je m'appelle Nizar @zaddemnizar
 - 👀 Je suis intéressé par devenir un développeur C#.NET
-- 🌱 Actuellement, je suis en train d'apprendre C#.NET, ASP.NET, Web development (FrontEnd, BackEnd), et plusieurs autres domaines
+- 🌱 Actuellement, je suis en train d'apprendre C#.NET, ASP.NET, développement Web (FrontEnd, BackEnd), et plusieurs autres domaines
 - 💞️ Je cherche à intégrer une société qui pourra me donner l'opportunité d'exercer ma passion et gagner en expérence comme étant un développeur C#.Net
 - 📫 Vous pouvez me contacter sur : zaddemnizar@gmail.com
 
